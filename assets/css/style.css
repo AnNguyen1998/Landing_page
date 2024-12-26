@@ -12,3 +12,7 @@ a {
     text-decoration: none;
     color: #283248;
 }
+
+body { 
+    position: relative;
+}
